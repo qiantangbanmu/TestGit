@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ConsoleApplication1/.vs/ConsoleApplication1/v16
+/ConsoleApplication1/ConsoleApplication1.vcxproj.user
+/ConsoleApplication1/ConsoleApplication1.vcxproj.filters
+/.vs
